@@ -11,6 +11,8 @@ This repository contains Python programs for various mathematical calculations. 
 - [Generate Prime Numbers](#generate-prime-numbers)
 - [Calculate Square Root](#calculate-square-root)
 
+```
+
 ## Calculate Euler's Constant (γ)
 
 Euler's constant, often denoted as γ (gamma), can be calculated using the `mpmath` library. The program allows you to specify the desired precision.
